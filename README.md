@@ -1,0 +1,2 @@
+# MiniORMCore
+Custom ORM Framework
