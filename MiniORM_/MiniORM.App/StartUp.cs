@@ -12,7 +12,7 @@
 
 
             var connectionString =
-                @"Server=LAPTOP-DTGPHD2G\SQLEXPRESS;Database=MiniORM;Integrated Security=True";
+                @"Server=USR\SQLEXPRESS;Database=MiniORM;Integrated Security=True";
 
             var context = new SoftUniDbContext(connectionString);
 
